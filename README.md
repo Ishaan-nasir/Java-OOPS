@@ -4,7 +4,7 @@ A repository containing Java Object-Oriented Programming (OOP) practice question
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 
 - Classes and Objects
 - Constructors (Default & Parameterized)
@@ -14,7 +14,7 @@ A repository containing Java Object-Oriented Programming (OOP) practice question
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
